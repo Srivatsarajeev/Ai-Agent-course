@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Vatsa Nutrition</title>
+  <desc id="desc">A green leaf-and-bowl logo for Vatsa Nutrition.</desc>
+  <rect width="1600" height="1000" fill="#f5f1e8"/>
+
+  <g transform="translate(0 0)">
+    <!-- Bowl -->
+    <path d="M410 550 C570 630, 1030 630, 1190 550 L1260 610 C1160 705, 1010 760, 800 760 C590 760, 440 705, 340 610 Z"
+      fill="#143c36"/>
+    <path d="M436 560 C570 620, 1030 620, 1164 560" fill="none" stroke="#2d5d58" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+
+    <!-- Stem -->
+    <path d="M800 310 C800 420, 800 470, 800 540" fill="none" stroke="#143c36" stroke-width="28" stroke-linecap="round"/>
+
+    <!-- Left leaf -->
+    <path d="M770 360 C710 305, 620 290, 550 330 C610 380, 680 420, 770 450 C778 429, 778 396, 770 360 Z"
+      fill="#143c36"/>
+    <path d="M720 390 C660 350, 612 350, 555 370" fill="none" stroke="#dfe8e5" stroke-width="14" stroke-linecap="round" opacity="0.8"/>
+    <path d="M590 350 C640 350, 690 370, 720 390" fill="none" stroke="#dfe8e5" stroke-width="11" stroke-linecap="round" opacity="0.8"/>
+
+    <!-- Right leaf -->
+    <path d="M830 360 C910 300, 1005 292, 1088 332 C1024 385, 952 425, 866 456 C856 436, 846 395, 830 360 Z"
+      fill="#7aa194"/>
+    <path d="M870 390 C930 350, 1010 350, 1070 370" fill="none" stroke="#dfe8e5" stroke-width="14" stroke-linecap="round" opacity="0.8"/>
+    <path d="M905 348 C948 350, 994 365, 1035 390" fill="none" stroke="#dfe8e5" stroke-width="11" stroke-linecap="round" opacity="0.8"/>
+
+    <!-- Small center leaf -->
+    <path d="M812 285 C770 220, 700 200, 640 220 C697 260, 752 298, 812 330 C820 311, 820 299, 812 285 Z"
+      fill="#7aa194"/>
+    <path d="M740 248 C710 220, 680 222, 640 230" fill="none" stroke="#dfe8e5" stroke-width="10" stroke-linecap="round" opacity="0.8"/>
+  </g>
+
+  <text x="800" y="850" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="210" font-weight="700" fill="#143c36" letter-spacing="-6">Vatsa</text>
+  <text x="800" y="940" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="200" font-weight="700" fill="#143c36" letter-spacing="-6">Nutrition</text>
+</svg>
